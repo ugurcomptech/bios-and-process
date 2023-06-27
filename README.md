@@ -17,3 +17,8 @@ Bu Windows Batch Script, bir bilgisayarın seri numarasını (BIOS) ve bilgisaya
 ```batch
 Serial Number: CQ7ASDA9
 ```
+## Lisans
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
